@@ -1,0 +1,17 @@
+{
+    "name": "dreamka/perfluence",
+    "autoload": {
+        "psr-4": {
+            "Perfluence\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexey Tsarapkin",
+            "email": "x.shandow@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}
